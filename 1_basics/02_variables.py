@@ -1,7 +1,7 @@
 # Strings   
 first_name = "Surbhi"
 favourite_food = "Momos"
-email = "surbhi@cool.com"
+email = "surbhi@diva.com"
 """
 print(f"Hello {first_name}")
 print(f"You like {favourite_food}")
