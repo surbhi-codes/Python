@@ -1,9 +1,10 @@
 # Exercise 2 - Shopping Cart Program
 
 item = input("What item would you like to buy?: ")
-price = float(input("What is the price?: "))
+price = float(input("What is the price?: $"))
 quantity = int(input("How many would you like to buy?: "))
 
 total = price * quantity
 
-
+print(f"You have bought {quantity} X {item}")
+print(f"Your total is: ${total}")
