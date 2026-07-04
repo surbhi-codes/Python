@@ -19,4 +19,4 @@ adjective2 = "an extraordinary"
 noun = "Albert Cuyp Markt"
 verb = "wandered"              # Added past-tense verb
 adjective3 = "warm, gooey"
-adjective4 = "full and content"
+adjective4 = "full and content" 
