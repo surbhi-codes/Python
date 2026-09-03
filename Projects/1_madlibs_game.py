@@ -8,7 +8,7 @@ adjective3 = input("Enter an adjective (description): ")
 adjective4 = input("Enter an adjective (description): ")
 
 print(f"Today I went to {adjective1} in Amsterdam.")
-print(f"There I saw {adjective2} collection of Dutch Golden Age masterpieces.")
+print(f"There I saw {adjective2} collection of Dutch Golden Age masterpiece.")
 print(f"Then I {verb1} through {noun1} and ate {adjective3} Stroopwafels.")
 print(f"I'm so {adjective4}.")
 
